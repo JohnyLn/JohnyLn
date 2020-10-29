@@ -8,7 +8,7 @@ I am also studying for a master's degree in engineering management specialized i
 
 
 <br>
-<p align="left">
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=JohnyLn&theme=nord&show_icons=true&count_private=true">
 </p>
 <br/>
