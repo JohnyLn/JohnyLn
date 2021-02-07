@@ -5,6 +5,7 @@
 Hey 👋, I'm Johny, I study in Paris - La Défense as a student engineer in embedded systems at the [Leonard de Vinci Graduate School of Engineering](https://www.esilv.fr/en/) specialized in **Computer Science**, **Big Data** and **Internet Of Things**.
 I am also studying for a master's degree in engineering management specialized in **marketing** and **management** at the [Léonard de Vinci Business School](https://www.emlv.fr/en/).
 
+I am currently doing an intership in Sagemcom Broadband Cloud and Software Solutions.
 
 
 <br>
