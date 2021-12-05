@@ -1,9 +1,9 @@
 
 # Hello, I'm Johny 😄
 
-<center>
+<p align="center">
   <img src="avatar_working.jpg" alt="avatar_working" width="350"/>
-</center>
+</p>
 
 ## About me
 Hey 👋, I am Johny, I'm working in Sagemcom Broadband company as **Data Engineer**. I studied in Paris - La Défense at the [Leonard de Vinci Graduate School of Engineering](https://www.esilv.fr/en/) specialized in **Computer Science**, **Big Data** and **Internet Of Things**.
