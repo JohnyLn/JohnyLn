@@ -12,7 +12,7 @@ You will find some personal projects on subjects such as **microservice**, **NoS
 
 ## Contact me
 
-Currently employed, I am always open to new opportunities. Contact me directly on [LinkedIn](https://www.linkedin.com/in/johny-lin/).
+Currently employed, I am always open to *new opportunities*. Contact me directly on [LinkedIn](https://www.linkedin.com/in/johny-lin/).
 
 <p>
   <a href="https://www.linkedin.com/in/johny-lin/">
